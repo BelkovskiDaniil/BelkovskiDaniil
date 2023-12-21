@@ -1,6 +1,7 @@
 ### :fire: My Stats :
 
 <img width=400 src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelkovskiDaniil&show_icons=true&theme=github_dark)" /> <img height=167 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelkovskiDaniil&layout=compact&theme=github_dark" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelkovskiDaniil&show_icons=true&theme=github_dark)
 
 <!--<div style="display: flex; flex-direction: row;">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=BelkovskiDaniil&show_icons=true&theme=github_dark" />
