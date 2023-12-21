@@ -49,5 +49,4 @@
 
 
 - 📧 Email: belkadaniil5@gmail.com
-- 📱: Telegram: [https://t.me/belka_belkabelkabelkabelka
-](https://t.me/belka_belkabelkabelkabelka)
+- 📱 Telegram: [https://t.me/belka_belkabelkabelkabelka](https://t.me/belka_belkabelkabelkabelka)
