@@ -1,9 +1,9 @@
 ## :handshake: Greetings, I hope for fruitful cooperation.
 
-- :space_invader: Full stack developer on Android (and not only).
-- :space_invader: If you have money and opportunity, then you can take my blood.
-- :space_invader: Work comes first.
-- :space_invader: Dostoevsky and investment comes second. github readme 
+- 🫀 Full stack developer on Android (and not only).
+- 🫀 If you have money and opportunity, then you can take my blood.
+- 🫀 Work comes first.
+- 🫀 Dostoevsky and investment comes second. github readme 
 
 ## :fire: My Stats :
 
@@ -33,9 +33,9 @@
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="Clion Badge"/>
 </div>
 
-## :mailbox: Find me:
+## 📫 Find me:
 
 
 - 📧 Email: belkadaniil5@gmail.com
-- 📫 Telegram: [https://t.me/belka_belkabelkabelkabelka
+- 📱: Telegram: [https://t.me/belka_belkabelkabelkabelka
 ](https://t.me/belka_belkabelkabelkabelka)
