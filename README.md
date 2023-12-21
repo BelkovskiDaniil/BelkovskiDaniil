@@ -1,4 +1,4 @@
-### 🤝: Greetings, I hope for fruitful cooperation.
+### 🤝 Greetings, I hope for fruitful cooperation.
 
 
 
