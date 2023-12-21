@@ -5,14 +5,10 @@
 - :space_invader: Work comes first.
 - :space_invader: Dostoevsky and investment comes second. github readme 
 
----
-
 ## :fire: My Stats :
 
 
 <img width=400 src="https://github-readme-stats.vercel.app/api?username=BelkovskiDaniil&show_icons=true&theme=github_dark" /> <img height=167 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelkovskiDaniil&layout=compact&theme=github_dark" />
-
----
 
 ## :computer: My Skills :
 
@@ -36,8 +32,6 @@
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm Badge"/>
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="Clion Badge"/>
 </div>
-
----
 
 ## :mailbox: Find me:
 
