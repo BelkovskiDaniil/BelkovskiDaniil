@@ -1,6 +1,6 @@
 ## :handshake: Greetings, I hope for fruitful cooperation.
 
-- 🫀 Full stack developer on Android (and not only).
+- 🫀 Full stack Android developer (and not only).
 - 🫀 If you have money and opportunity, then you can take my blood.
 - 🫀 Work comes first.
 - 🫀 Dostoevsky and investment comes second. 
