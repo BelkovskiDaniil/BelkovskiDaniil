@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
 </div>
 
-## :toolbox: My Tools :
+## :screwdriver: My Tools :
 
 <div id="badges">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
