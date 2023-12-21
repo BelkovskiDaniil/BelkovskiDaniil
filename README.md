@@ -1,6 +1,6 @@
 ### :handshake: Greetings, I hope for fruitful cooperation.
 
-<div style="border:1px solid black; padding: 10px;">
+<div style="border:30px solid black; padding: 10px;">
     <p>:space_invader: Full stack developer on Android (and not only).</p>
     <p>:space_invader: If you have money and opportunity, then you can take my blood.</p>
     <p>:space_invader: Work comes first.</p>
