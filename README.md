@@ -6,7 +6,7 @@
 
 <img width=400 src="https://github-readme-stats.vercel.app/api?username=BelkovskiDaniil&show_icons=true&theme=github_dark" /> <img height=167 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelkovskiDaniil&layout=compact&theme=github_dark" />
 
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
