@@ -1,9 +1,11 @@
 ### :handshake: Greetings, I hope for fruitful cooperation.
 
-- :space_invader: Full stack developer on Android (and not only).
-- :space_invader: If you have money and opportunity, then you can take my blood.
-- :space_invader: Work comes first.
-- :space_invader: Dostoevsky and investment comes second.
+<div style="border:1px solid black; padding: 10px;">
+    <p>:space_invader: Full stack developer on Android (and not only).</p>
+    <p>:space_invader: If you have money and opportunity, then you can take my blood.</p>
+    <p>:space_invader: Work comes first.</p>
+    <p>:space_invader: Dostoevsky and investment comes second.</p>
+</div>
 
 ---
 
