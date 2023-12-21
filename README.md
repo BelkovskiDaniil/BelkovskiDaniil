@@ -1,4 +1,4 @@
-### :handshake Greetings, I hope for fruitful cooperation.
+### :handshake: Greetings, I hope for fruitful cooperation.
 
 
 
