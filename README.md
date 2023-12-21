@@ -5,7 +5,7 @@
 - :space_invader: Work comes first.
 - :space_invader: Dostoevsky and investment comes second.
 
----
+***
 
 ### :fire: My Stats :
 
