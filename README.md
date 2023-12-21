@@ -1,11 +1,13 @@
 ### :handshake: Greetings, I hope for fruitful cooperation.
 
+<summary>
 - :space_invader: Full stack developer on Android (and not only).
 - :space_invader: If you have money and opportunity, then you can take my blood.
 - :space_invader: Work comes first.
 - :space_invader: Dostoevsky and investment comes second.
+</summary>
 
-***
+---
 
 ### :fire: My Stats :
 
