@@ -1,9 +1,6 @@
 ## :handshake: Greetings, I hope for fruitful cooperation.
 
-- 🫀 Full stack Android developer (and not only).
-- 🫀 If you have money and opportunity, then you can take my blood.
-- 🫀 Work comes first.
-- 🫀 Dostoevsky and investment comes second. 
+🫀 Java developer with broad development experience (from mobile to complex multi-level business development). Communicative, hardworking and goal-oriented. I easily understand new technologies, I am looking for a company where I can grow as a strong specialist and manager! I will be glad to meet any acquaintances :)
 
 ## :fire: My Stats :
 
